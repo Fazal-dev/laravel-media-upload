@@ -32,13 +32,13 @@ This project is a Laravel-based application that allows users to submit a form w
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/your-repo.git
+    git clone https://github.com/Fazal-dev/laravel-media-upload.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd your-repo
+    cd laravel-media-upload
     ```
 
 3. **Install dependencies:**
