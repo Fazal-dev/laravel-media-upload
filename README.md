@@ -122,4 +122,4 @@ Feel free to submit issues or pull requests to improve the project. Please follo
 
 For questions or further information, please contact:
 
--   **Fasal Mohamed** - your.email@example.com
+-   **Fasal Mohamed** - mfazal404@gmail.com
