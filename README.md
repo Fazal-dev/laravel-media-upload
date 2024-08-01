@@ -67,12 +67,14 @@ This project is a Laravel-based application that allows users to submit a form w
     MAIL_MAILER=smtp
     MAIL_HOST=smtp.mailtrap.io
     MAIL_PORT=2525
-    MAIL_USERNAME=your_mailtrap_username
-    MAIL_PASSWORD=your_mailtrap_password
+    MAIL_USERNAME=<your_mailtrap_username>
+    MAIL_PASSWORD=<your_mailtrap_password>
     MAIL_ENCRYPTION=tls
     MAIL_FROM_ADDRESS=no-reply@example.com
     MAIL_FROM_NAME="${APP_NAME}"
     ```
+
+![Mailtrap Setup](public/images/mailTrapSetup.png)
 
 7. **Run migrations (if applicable):**
 
@@ -98,9 +100,19 @@ This project is a Laravel-based application that allows users to submit a form w
 
     Fill in the Name, Email, and Message fields. Upload a file (image or PDF) and submit the form.
 
+![Form UI](public/images/form.PNG)
+
 3. **Receive Email:**
 
     The application will send an email with the form data and the uploaded file as an attachment to the email address specified in the controller.
+
+![Mailtrap email](public/images/mailTrap.png)
+
+4. **Receive feedback:**
+
+    Upon successful submission, the user will receive a success message indicating that the form has been submitted successfully.
+
+![success meaage](public/images/successMessage.png)
 
 ## File Handling and Security
 
