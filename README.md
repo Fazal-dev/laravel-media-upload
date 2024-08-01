@@ -74,7 +74,7 @@ This project is a Laravel-based application that allows users to submit a form w
     MAIL_FROM_NAME="${APP_NAME}"
     ```
 
-![Mailtrap Setup](public/images/mailTrapSetup.png)
+![Mailtrap Setup](public/images/mailTrapSetup.PNG)
 
 7. **Run migrations (if applicable):**
 
