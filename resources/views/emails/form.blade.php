@@ -57,7 +57,7 @@
         <div class="content">
             <p><strong>Name:</strong> {{ $name }}</p>
             <p><strong>Email:</strong> {{ $email }}</p>
-            <p><strong>Message:</strong> {{ $Emailmessage }}</p>
+            <p><strong>Message:</strong> {{ $email_message }}</p>
             <p><strong>Media:</strong> <a href="{{ asset($media_path) }}">Download Media</a></p>
         </div>
         <div class="footer">

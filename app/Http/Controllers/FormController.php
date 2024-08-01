@@ -19,7 +19,7 @@ class FormController extends Controller
         $request->validate([
             'name' => 'required|string|max:255',
             'email' => 'required|email|max:255',
-            'Emailmessage' => 'required|string',
+            'email_message' => 'required|string',
             'media' => 'required|file|mimes:jpg,png,pdf|max:2048',
         ]);
 

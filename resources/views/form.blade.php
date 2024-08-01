@@ -43,7 +43,7 @@
                     </div>
                     <div class="form-group">
                         <label for="message">Message:</label>
-                        <textarea class="form-control" id="message" name="Emailmessage" rows="4" required></textarea>
+                        <textarea class="form-control" id="message" name="email_message" rows="4" required></textarea>
                     </div>
                     <div class="form-group">
                         <label for="media">Upload Media:</label>
