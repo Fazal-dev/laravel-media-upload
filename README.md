@@ -106,13 +106,13 @@ This project is a Laravel-based application that allows users to submit a form w
 
     The application will send an email with the form data and the uploaded file as an attachment to the email address specified in the controller.
 
-![Mailtrap email](public/images/mailTrap.png)
+![Mailtrap email](public/images/mailTrap.PNG)
 
 4. **Receive feedback:**
 
     Upon successful submission, the user will receive a success message indicating that the form has been submitted successfully.
 
-![success meaage](public/images/successMessage.png)
+![success meaage](public/images/successMessage.PNG)
 
 ## File Handling and Security
 
