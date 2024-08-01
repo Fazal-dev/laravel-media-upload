@@ -92,7 +92,7 @@ This project is a Laravel-based application that allows users to submit a form w
 
 1. **Access the Form:**
 
-    Navigate to `http://localhost:8000/form` to view the submission form.
+    Navigate to `http://localhost:8000` to view the submission form.
 
 2. **Submit Data:**
 
